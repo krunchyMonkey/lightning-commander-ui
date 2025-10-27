@@ -1,5 +1,6 @@
 // Test setup file for Vitest
 import { beforeEach, vi } from 'vitest'
+import '@testing-library/jest-dom'
 
 // Mock implementations for testing
 beforeEach(() => {

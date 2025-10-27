@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1761606687713" clover="3.2.0">
+  <project timestamp="1761606687713" name="All files">
+    <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4" elements="12" coveredelements="12" complexity="0" loc="6" ncloc="6" packages="2" files="3" classes="3"/>
+    <package name="Sidebar">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="Sidebar.tsx" path="C:\Developer\react\lightning-commander-ui\src\components\Sidebar\Sidebar.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="43" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+        <line num="21" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="Sidebar.NavItem">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="NavItem.tsx" path="C:\Developer\react\lightning-commander-ui\src\components\Sidebar\NavItem\NavItem.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="86" type="stmt"/>
+      </file>
+      <file name="index.ts" path="C:\Developer\react\lightning-commander-ui\src\components\Sidebar\NavItem\index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+  </project>
+</coverage>
